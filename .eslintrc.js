@@ -58,7 +58,7 @@ module.exports = {
 			},
 		],
 		"react/no-unescaped-entities": ["error", { forbid: [">", "}"] }],
-		"react/react-in-jsx-scope": "off", // React 17 doesn't require this rule
+		"react/react-in-jsx-scope": "off",
 		"react/prop-types": "off",
 	},
 }
